@@ -20,7 +20,9 @@
 
 ###### On the to do list:
 - [ ] Convert menu images to SVGs.
-- [ ] Implement dynamic about, author, and archive sections.
+- [ ] Design and develop loading screen for images.
+- [ ] [Develop javascript for loading screen.](https://github.com/desandro/imagesloaded) 
+- [ ] Implement dynamic `about`, `author`, and `archive` sections.
 - [ ] Create separate demo reels showcasing different transition effects for various elements.
 - [ ] Develop javascript code to indicate first and last chapters via the archive.
 - [ ] Implement an `onClick()` function for nav arrows.
