@@ -30,4 +30,5 @@
 - [ ] Play around with `datasets` to implement background change functionality.
 - [ ] Design caption and comment area.
 - [ ] Troubleshoot issues.
+- [ ] Design dynamic opacity to nav menu items when reaching first and last page variables.
 - [ ] Start developing wordpress plugin.
