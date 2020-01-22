@@ -5,7 +5,7 @@
 ###### If list is marked, the feature is live on the demo.
 - [x] Included updates and adjustments **AND** suggestions list to README.md
 - [ ] Readjusted dimensions to media panel's height from `700px` to `786px`.
-- [ ] Added class `.mediapanel` to `#maincontent` <div> to indicate the actual div panel itself.
+- [ ] Added class `.mediapanel` to `#maincontent` div to indicate the actual div panel itself.
 - [ ] Included a dataset called `data-background` to actual comic images.
 
 ### Current stable, new functionalities:
