@@ -2,7 +2,7 @@
 #### Demo Reel
 
 
-(View the live demo)https://achaacha.github.io/Bitch-Fit-Demo/index.html
+[View the live demo](https://achaacha.github.io/Bitch-Fit-Demo/index.html)
 
 ###### Current stable, new functionalities:
 1. Dynamic Movement between images, no need to have more pages!
@@ -10,7 +10,7 @@
 3. Remain in the same spot on the y-scroll axis while shuffling through images; page does not bounce.
 4. URL remains on same page, but updates with a `#+number` at the end of URL to indicate which page/archive we're on.
 5. Media panel resized and permanently stays in place regardless of what image is inside of it. [Reference #2](https://achaacha.github.io/Bitch-Fit-Demo/index.html#2)
-  - Smaller image's transparency was also removed, setting them at 524px x 524px for testing.)
+   - Smaller image's transparency was also removed, setting them at 524px x 524px for testing.)
 6. Comic images now resize and centers themselves in the middle of the panel but still maintains it's original quality.
 7. Background image is now shown completely regardless of screen size.
 
