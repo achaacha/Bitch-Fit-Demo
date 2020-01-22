@@ -2,7 +2,7 @@
 #### Demo Reel
 
 
-[View the live demo](https://achaacha.github.io/Bitch-Fit-Demo/index.html)
+[View the live demo](https://achaacha.github.io/Bitch-Fit-Demo/)
 
 ###### Current stable, new functionalities:
 1. Dynamic Movement between images, no need to have more pages!
