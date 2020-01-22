@@ -1,0 +1,89 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+  display: block;
+  margin: 0;
+  font-family: 'Arial' , sans-serif;
+  font-size: 14px;
+  background-image: url(img/sitebg.png);
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+div{
+  display: block;
+}
+
+#page-wrap{
+  padding: 10px 0;
+}
+
+#page{
+  margin: 0 auto;
+  width: 980px;
+  max-width: 980px;
+}
+#header {
+  display: block;
+  margin: 0 auto;
+  width: 900px;
+  height: 313px;
+  background: url(img/bannersubtitle.png) top center no-repeat;
+  overflow: hidden;
+  max-width: 100%;
+}
+#content-wrapper, #comic-wrap{
+  margin: 0 auto;
+  width: 100%;
+}
+#sidebar-over-comic {
+  background-color: #242524;
+}
+.sidebar ul {
+  text-align: center;
+}
+
+.sidebar li {
+  display: inline-block;
+}
+
+#maincontent {
+    margin: 0 auto;
+    width: 1000px;
+    height: 700px;
+}
+
+#comic {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+.comicpage {
+  max-height: 700px;
+}
+
+.navi {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display:none;
+}
+
+#space1 {
+  display: flex;
+  height: 500px;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+}
+
+#content {
+flex: 0 0 120px;
+}
