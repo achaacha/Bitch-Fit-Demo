@@ -18,6 +18,9 @@
 ###### Unstable functions and known issues:
 - Accessibility to a specific comic through the `# + number` indication of the URL tag sometimes does not update immediately under certain condition **UNLESS** the url is entered again. The website directs you to the appropriate image on the second try.
 
+###### Minor Tweaks and adjustments:
+- To be updated
+
 ###### On the to do list:
 - [ ] Convert menu images to SVGs.
 - [ ] Design and develop loading screen for images.
