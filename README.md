@@ -16,7 +16,7 @@ https://achaacha.github.io/Bitch-Fit-Demo/index.html And here is the demo.
 
 
 ###### Unstable functions and known issues:
--Accessibility to a specific comic through the `# + number` indication of the URL tag sometimes does not update immediately under certain condition **UNLESS** the url is entered again. The website directs you to the appropriate image on the second try.
+- Accessibility to a specific comic through the `# + number` indication of the URL tag sometimes does not update immediately under certain condition **UNLESS** the url is entered again. The website directs you to the appropriate image on the second try.
 
 ###### On the to do list:
 - [ ] Convert menu images to SVGs.
