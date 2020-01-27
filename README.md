@@ -1,6 +1,8 @@
 # Bitch Fit Demo
 [View the live demo](https://achaacha.github.io/Bitch-Fit-Demo/)
 
+1-27-2020@ 109AM: I haven't been able to get around to updating this in a while, should be able to start prog again in Feb.
+
 ### Updates and adjustments
 ###### If list is marked, the feature is live on the demo.
 - [x] Included updates and adjustments **AND** suggestions list to README.md
